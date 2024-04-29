@@ -1,3 +1,12 @@
+---
+layout: post
+title: "一条命令永久激活 Windows 及 Office 重装自动激活"
+subtitle: "一条命令永久激活 Windows 及 Office 重装自动激活"
+author: "灰兔"
+header-style: text
+tags:
+  - windows
+---
 # 真的是：一条命令永久激活 Windows 及 Office 重装自动激活，赶紧行动吧
 
 love2个月前 (02-29)[科技](https://www.72share.top/?cate=2)7202
