@@ -7,17 +7,6 @@ header-style: text
 tags:
   - vscode
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Visual Studio Code Python 基本設定篇
 
 
